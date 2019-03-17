@@ -1,1 +1,1 @@
-## APPLICATION ON PHP with SQLite3
+## PHP with SQLite3
